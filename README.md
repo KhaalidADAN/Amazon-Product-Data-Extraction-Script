@@ -1,5 +1,5 @@
-"""
-Amazon Product Data Extraction Script
+
+**Amazon Product Data Extraction Script**
 
 This script extracts product details (name, price, rating, and rating count) from an Amazon search results HTML file and saves them into a CSV file using BeautifulSoup and pandas.
 
