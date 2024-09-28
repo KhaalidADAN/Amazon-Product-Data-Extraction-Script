@@ -21,7 +21,7 @@ The vast amount of product information on Amazon makes it difficult for business
 ## Data Understanding
 
 ### Data Source
-The data was collected from an HTML file of Amazon search results, specifically from the bedding category. The HTML content was downloaded on [specific date] and stored locally for parsing.
+The data was collected from an HTML file of Amazon search results, specifically from the bedding category. The HTML content was downloaded on Sep 25, 2024 and stored locally for parsing.
 
 ### Data Description
 - **Variables Extracted:**
